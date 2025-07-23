@@ -1,5 +1,5 @@
 <h1 align="left">
-  👋 Hello, I'm Mustafo Alisherovich</h1>
+  👋 Hello, I'm Mustafo</h1>
 
 ###
 
